@@ -1,4 +1,3 @@
-// Creating thread by extending Thread class
 class MyThread extends Thread {
 
     public void run() {
