@@ -1,5 +1,3 @@
-
-
 class Bank {
     private String accountNumber;
     private double balance;
